@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bash
-echo ""(Ôo)'> 1-confused_smiley
-=======
-(Ôo)
->>>>>>> 4533959735ca48b5aa21c66b99e853db0a31fc22
+#!/bin/bash 
+echo "(Ôo)'> 1-confused_smiley
